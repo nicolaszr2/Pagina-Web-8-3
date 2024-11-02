@@ -5,7 +5,7 @@
     font-size: 40px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(244, 237, 237);
+    color: rgb(11, 11, 11);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .principal{
@@ -13,13 +13,13 @@
      
 }
 body{
-    background-image: url("fondos.jpg");
+    background-image: url("pexels-pixabay-355770.jpg")
    
 
 }
 .titulo{
 font-size: 60px;
-color: black;
+color: rgb(0, 32, 239);
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -47,3 +47,19 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: right;
 
 }
+.imgsoc{
+    height: 650px;
+    width: 1900px;
+    background-image: url("Plan De Apoyo de Sociales.png");
+    background-repeat:no-repeat;
+}
+.imginicio{
+    height: 1150px; 
+    width: 300px;
+background-image:url("Codigo QR para la pagina.png") ;
+background-repeat: no-repeat;
+
+}
+
+
+
