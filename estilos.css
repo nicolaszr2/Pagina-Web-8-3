@@ -3,9 +3,9 @@
 .texto{
    
     font-size: 40px;
-    padding-top: 140px;
+    padding-top: 130px;
     text-align: justify;
-    color: rgb(252, 245, 245);
+    color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .principal{
@@ -13,7 +13,7 @@
      
 }
 body{
-    background-image: url("pexels-rodrigo-souza-1275988-2531709.jpg")
+    background-image: url("pexels-scottwebb-1029624.jpg")
    
 
 }
@@ -25,28 +25,21 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
-.img1{
+.imgtecno1{
     height: 193px;
     width: 300px;
     background-image: url("piedra.jpeg");
     background-repeat: no-repeat;
     float: right;
 }
-.img2{
+.imgtecno2{
     height: 500px;
     width: 500px;
     background-image: url("medellin.jpeg");
     background-repeat: no-repeat;
     float: left;
 }
-.imgtec3{
-    height: 150px;
-    width: 200px;
-    background-image: url("descarga.jpeg");
-    background-repeat: no-repeat;
-    float: right;
 
-}
 .imgsoc{
     height: 650px;
     width: 1900px;
@@ -56,9 +49,143 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .imginicio{
     height: 1150px; 
     width: 300px;
-background-image:url("Codigo QR para la pagina.png") ;
-background-repeat: no-repeat;
+    background-image:url("Codigo QR para la pagina.png") ;
+    background-repeat: no-repeat;
 
+}
+
+.imgsoc3{
+    height: 500px;
+    width:  800px;
+    background-image: url("WhatsApp\ Image\ 2024-11-08\ at\ 10.47.08\ PM.jpeg");
+    background-repeat: no-repeat;
+}
+
+/*Temas del tercer periodo*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 430px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.principal{
+    display: flex;
+      
+ }
+
+
+.img1{
+    height:310px;
+    width:600px ;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-09\ 160730.png");
+    background-repeat: no-repeat;
+    
+}
+
+.img2{
+    height:400px;
+    width:800px;
+    background-image: url("imagen\ 1.png");
+    background-repeat: no-repeat;
+    
+}
+.img3{
+    height: 500px;
+    width: 1100px;
+    background-image: url("imagen\ 2.png");
+    background-repeat: no-repeat;
+    
+}
+
+.img4{
+    height: 500px;
+    width: 700px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-10\ 220354.png");
+    background-repeat: no-repeat;
+}
+
+.img5{
+    height: 500px;
+    width: 800px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-10\ 221235.png");
+    background-repeat: no-repeat;
+}
+
+.img6{
+    height: 500px;
+    width: 900px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-10\ 221304.png");
+    background-repeat: no-repeat;
+}
+.img7{
+    height: 500px;
+    width: 900px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-09\ 124509.png");
+    background-repeat: no-repeat;
+}
+.img1tecno3{
+    height: 300px;
+    width: 800px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-05\ 220157.png");
+    background-repeat: no-repeat;
+}
+.img2tecno3{
+    height: 300px;
+    width: 800px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 012918.png");
+    background-repeat: no-repeat;
+}
+.img3tecno3{
+    height: 300px;
+    width: 800px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-05\ 221029.png");
+    background-repeat: no-repeat;
+}
+.img4tecno3{
+    height: 300px;
+    width: 800px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 000648.png");
+    background-repeat: no-repeat;
+}
+.img5tecno3{
+    height: 250px;
+    width: 900px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 002237.png");
+    background-repeat: no-repeat;
+}
+.img6tecno3{
+    height: 250px;
+    width: 900px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 003658.png");
+    background-repeat: no-repeat;
+}
+.img7tecno3{
+    height: 250px;
+    width: 900px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 010231.png");
+    background-repeat: no-repeat;
+}
+.img8tecno3{
+    height: 250px;
+    width: 900px;
+    background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 003813.png");
+    background-repeat: no-repeat;
+}
+.img9tecno3{
+    height: 250px;
+    width: 900px;
+background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 003832.png");
+background-repeat: no-repeat;
+}
+.img10tecno3{
+    height: 250px;
+    width: 900px;
+background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 001634.png");
+background-repeat: no-repeat;
 }
 
 
