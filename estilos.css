@@ -188,5 +188,18 @@ background-image: url("Captura\ de\ pantalla\ 2024-11-11\ 001634.png");
 background-repeat: no-repeat;
 }
 
-
+.img1ingles{
+    height: 950px;
+    width: 1000px;
+background-image: url("Ingles\ imagen\ 1.png");
+background-repeat: no-repeat;
+float: left;
+}   
+.img2ingles{
+    height: 950px;
+    width: 1000px;
+background-image: url("Ingles\ imagen\ 2.png");
+background-repeat: no-repeat;
+float: left;
+}   
 
